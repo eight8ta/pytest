@@ -2,7 +2,7 @@ from hello import hello
 from goodbye import goodbye
 
 def main():
-    s = 'deep insider'
+    s = 'Fenix'
     hello(s)
     goodbye(s)
 
