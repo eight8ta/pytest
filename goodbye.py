@@ -1,2 +1,2 @@
 def goodbye(to):
-    print(f'good bye {to}')
+    print(f'Good bye {to}')

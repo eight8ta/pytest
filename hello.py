@@ -1,2 +1,2 @@
 def hello(to):
-    print(f'hello {to}')
+    print(f'Hello {to}')
